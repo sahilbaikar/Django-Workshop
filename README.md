@@ -1,0 +1,2 @@
+# Django-Workshop
+Django Workshop
